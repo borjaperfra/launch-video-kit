@@ -1,0 +1,26 @@
+{
+  "name": "launch-video-kit",
+  "version": "0.1.0",
+  "description": "Locución, música y cámara para vídeos de producto renderizados con Remotion. Los scripts funcionan solos; los helpers se copian o se importan.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["remotion", "video", "tts", "kokoro", "ffmpeg", "voiceover", "subtitles"],
+  "main": "src/index.ts",
+  "files": ["src", "scripts", "voiceover.example.json", "README.md"],
+  "scripts": {
+    "voice": "node --env-file-if-exists=.env scripts/gen-voice.mjs",
+    "music:analyze": "node scripts/analyze-music.mjs",
+    "music:loop": "node scripts/loop-music.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "remotion": ">=4"
+  },
+  "peerDependenciesMeta": {
+    "react": { "optional": true },
+    "remotion": { "optional": true }
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

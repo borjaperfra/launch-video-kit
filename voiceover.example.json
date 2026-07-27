@@ -1,0 +1,11 @@
+{
+  "model": "kokoro",
+  "voice": "af_heart",
+  "speed": 1,
+  "loudnorm": { "I": -16, "TP": -1.5, "LRA": 11 },
+  "lines": [
+    { "id": "01", "text": "Every company already has knowledge." },
+    { "id": "02", "text": "But knowledge used to be trapped." },
+    { "id": "03", "text": "Until now." }
+  ]
+}

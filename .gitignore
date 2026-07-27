@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+
+# Salidas: se regeneran
+public/vo/
+out/
+tmp/
+*.mp4
+*.wav
+*.mp3
+
+# Configuración real de locución (el ejemplo sí se versiona)
+voiceover.json
+
+.DS_Store
