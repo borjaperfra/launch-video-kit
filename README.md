@@ -316,3 +316,12 @@ un chat. 88 segundos, interfaz reconstruida en HTML, voz generada con Kokoro
 corriendo en la propia plataforma.
 
 MIT. Si lo usas y algo no encaja, abre un issue.
+
+---
+
+## Si trabajas con un agente
+
+En `.claude/skills/launch-video-kit/` hay una skill para Claude Code con el orden
+de trabajo y las reglas que es fácil saltarse (la voz antes del montaje, no
+subtitular lo que ya está en pantalla, el techo del ducking, la política de
+cámara). El README explica el porqué; la skill es el procedimiento.
