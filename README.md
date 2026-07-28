@@ -315,6 +315,11 @@ Del vídeo de lanzamiento de Knowledge, la función de
 un chat. 88 segundos, interfaz reconstruida en HTML, voz generada con Kokoro
 corriendo en la propia plataforma.
 
+En [`examples/brief-knowledge.md`](examples/brief-knowledge.md) está el brief con
+el que arrancó, sin retocar, y una nota de qué sobrevivió al montaje y qué no.
+Sirve como plantilla si tienes que escribir uno: lo que fija es el tono y lo que
+está prohibido decir, no los segundos por escena.
+
 MIT. Si lo usas y algo no encaja, abre un issue.
 
 ---
