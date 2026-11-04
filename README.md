@@ -320,6 +320,11 @@ el que arrancó, sin retocar, y una nota de qué sobrevivió al montaje y qué n
 Sirve como plantilla si tienes que escribir uno: lo que fija es el tono y lo que
 está prohibido decir, no los segundos por escena.
 
+[`examples/brief-revolut.md`](examples/brief-revolut.md) es el segundo: un
+explainer de 1:47 sobre la charla de Revolut y sus 56 GPUs. Trae el guion
+escena a escena con la locución, y las reglas para usar cifras de otra empresa
+sin afirmar lo que no dicen.
+
 MIT. Si lo usas y algo no encaja, abre un issue.
 
 ---
